@@ -6,9 +6,7 @@ a device that can moisturize plant automaticly
 
 ## Visual Preview
 
-<video src="Media/Demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+![demo](/Media/Demo.gif)
 
 <br>
 
