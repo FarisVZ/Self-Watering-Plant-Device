@@ -6,10 +6,12 @@ a device that can moisturize plant automaticly
 
 ## Visual Preview
 
+### Device Video Demo
 ![demo](/Media/Demo.gif)
 
 <br>
 
+### Device Photo
 ![Image](/Media/Image.jpg)
 
 
